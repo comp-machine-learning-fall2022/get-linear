@@ -1,4 +1,4 @@
-# Let's Get Linear: Spectral Clustering
+# Let's Get Linear: Singular Value Decomposition
 
 Singular Value Decomposition is a method to factor data and help reduce the dimensions of a data matrix. It's based in a lot of linear algebra like eigendecomposition and pulls from a lot of ideas about symmetric matrices and eigenvectors and eigenvalues, so let's explore it!
 
