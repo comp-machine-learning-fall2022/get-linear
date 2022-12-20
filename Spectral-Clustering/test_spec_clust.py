@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import spec_clust as sc
 
-my_data = np.loadtxt("spec_clust_data.csv", delimiter = ",")
+my_data = np.loadtxt("Spectral-Clustering/spec_clust_data.csv", delimiter = ",")
 
 #### Tests for Adjacency Matrix ####
 

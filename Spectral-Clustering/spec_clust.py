@@ -69,7 +69,7 @@ def full_kmeans(array_np, k):
     return (labels, centers)
 
 
-#load in the data
+'''#load in the data
 my_data = np.loadtxt("spec_clust_data.csv", delimiter = ",")
 
 #make Laplacian
@@ -82,6 +82,6 @@ L = my_laplacian(adjmat)
 labels, centers = spect_clustering(L, 2)
 #show the clustering
 plt.scatter(my_data[:,0], my_data[:,1], c = labels)
-plt.show()
+plt.show()'''
 
 
