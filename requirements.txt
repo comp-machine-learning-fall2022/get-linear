@@ -8,4 +8,4 @@ flake8
 pytest
 numpy
 pandas
-Sklearn
+scikit-learn
